@@ -50,7 +50,7 @@ requires = [
 
 ]
 test_requirements = [
-    'pytest-httpbin==0.0.7',
+    'pytest-httpbin==1.0.1',
     'pytest-cov',
     'pytest-mock',
     'pytest-xdist',
